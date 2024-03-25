@@ -1,5 +1,3 @@
-\\# my_smart_door\\
- \\smart door priject\\
 
 #include <LiquidCrystal.h>
 #include <Servo.h>
